@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=24292F&center=true&vCenter=true&width=640&lines=%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%88%B6%E9%80%A0%E5%87%BA%E8%A2%AB%E6%89%80%E6%9C%89%E4%BA%BA%E5%96%9C%E7%88%B1%E7%9A%84+AI+%E4%BA%A7%E5%93%81;Building+AI+products+people+love;Local-first+%C2%B7+Independent+Developer" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=24292F&center=true&vCenter=true&width=640&lines=Building+AI+products+people+love;%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%88%B6%E9%80%A0%E5%87%BA%E8%A2%AB%E6%89%80%E6%9C%89%E4%BA%BA%E5%96%9C%E7%88%B1%E7%9A%84+AI+%E4%BA%A7%E5%93%81;Local-first+%C2%B7+Independent+Developer" alt="typing" />
 
 # wiND
 
-**华南师范大学 · 阿伯丁数据科学与人工智能学院**  
-人工智能专业 · 大三 · 独立开发者
+**South China Normal University · Aberdeen Institute of Data Science and Artificial Intelligence**  
+AI Major · Junior · Independent Developer
 
 <!-- README-I18N:START -->
 
-**汉语** | [English](./README.en.md)
+[汉语](./README.md) | **English**
 
 <!-- README-I18N:END -->
 
@@ -21,37 +21,37 @@
 
 ---
 
-## 关于我
+## About
 
-我是一名在校独立开发者，专注把 AI 能力做成**真正能用、愿意常用**的产品——尤其偏爱本地优先、隐私可控的桌面体验。
+I'm an independent developer still in school. I care about turning AI into products people **actually use**—especially local-first desktop experiences with privacy under the user's control.
 
-比起堆 Demo，我更在意一件事能不能从「能跑」走到「值得给别人用」。
+Demos are easy. Shipping something worth recommending is harder—and that's the bar I aim for.
 
-- **学校**：华南师范大学 · 阿伯丁数据科学与人工智能学院
-- **专业**：人工智能（大三）
-- **方向**：Local-first AI Agent · 桌面应用 · 人格蒸馏 / 视角型对话
-- **信念**：致力于制造出被所有人喜爱的 AI 产品
+- **School**: South China Normal University · Aberdeen Institute of Data Science and AI
+- **Major**: Artificial Intelligence (Junior)
+- **Focus**: Local-first AI agents · Desktop apps · Personality distillation / perspective-driven chat
+- **North star**: Building AI products people love
 
 ---
 
-## 当前在做什么
+## What I'm Working On
 
-| 焦点 | 说明 |
+| Focus | Notes |
 | --- | --- |
-| **本地 AI 伴侣** | 把「人格蒸馏」做成可安装的 Windows 桌面产品（见下方 Bailin） |
-| **Agent 工作流** | 探索 Skill / Prompt 编排，让 Agent 更像「有视角的人」，而不是万能复读机 |
-| **产品打磨** | 从安装体验、隐私、交互细节入手，把开源项目做到可分发 |
+| **Local AI companion** | Turning "personality distillation" into an installable Windows desktop product (see Bailin below) |
+| **Agent workflows** | Exploring skills & prompt orchestration so agents feel like someone with a viewpoint—not a generic chatbot |
+| **Product craft** | Install UX, privacy, and interaction details—making open source feel shippable |
 
 ---
 
-## 精选作品
+## Featured Project
 
 <div align="center">
   <a href="https://github.com/WINDGAND/Bailin">
     <img src="https://raw.githubusercontent.com/WINDGAND/Bailin/main/assets/logo.png" alt="Bailin" width="96" />
   </a>
-  <h3><a href="https://github.com/WINDGAND/Bailin">Bailin 百灵</a></h3>
-  <p><strong>桌面上的百变魂灵</strong> —— 完全本地运行的开源 AI 角色伴侣</p>
+  <h3><a href="https://github.com/WINDGAND/Bailin">Bailin</a></h3>
+  <p><strong>A shape-shifting spirit on your desktop</strong> — fully local, open-source AI character companion</p>
   <p>
     <a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/github/stars/WINDGAND/Bailin?style=flat-square&logo=github&color=F5C518" alt="stars" /></a>
     <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" />
@@ -60,29 +60,29 @@
   </p>
 </div>
 
-造一个 ta（约 5–8 分钟深度蒸馏：心智框架 + 表达 DNA + 像素形象），请 ta 常驻桌面；`Ctrl + Shift + P` 随手唤起对话。
+Create a character in ~5–8 minutes (deep distillation: mental models + expressive DNA + pixel sprite), pin them to your desktop, and open chat anytime with `Ctrl + Shift + P`.
 
-- **零订阅 / 零遥测** — 自带 API Key，数据存本机 SQLite
-- **隐私优先** — Windows DPAPI 加密密钥，渲染进程不碰明文
-- **视角型对话** — 不是让 AI 「演成 XX」，而是用 ta 的视角看你的问题
+- **Zero subscription / zero telemetry** — bring your own API key; data stays in local SQLite
+- **Privacy-first** — Windows DPAPI for keys; renderer never sees plaintext secrets
+- **Perspective-driven chat** — not "AI cosplaying as X", but answering through X's way of seeing
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WINDGAND/Bailin/main/assets/pet.png" alt="像素桌宠" width="220" />
+  <img src="https://raw.githubusercontent.com/WINDGAND/Bailin/main/assets/pet.png" alt="Pixel pet" width="220" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/WINDGAND/Bailin/main/assets/chat.png" alt="聊天窗" width="520" />
+  <img src="https://raw.githubusercontent.com/WINDGAND/Bailin/main/assets/chat.png" alt="Chat window" width="520" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/WINDGAND/Bailin">仓库 →</a>
+  <a href="https://github.com/WINDGAND/Bailin">Repository →</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/WINDGAND/Bailin/releases/latest">下载安装包 →</a>
+  <a href="https://github.com/WINDGAND/Bailin/releases/latest">Download installer →</a>
 </p>
 
 ---
 
-## 技术栈
+## Tech Stack
 
-从当前项目里抽出来的主力工具：
+Primary tools pulled from what I actually ship:
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -97,7 +97,7 @@
 
 ---
 
-## GitHub 数据
+## GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=WINDGAND&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=24292F&icon_color=0969DA&text_color=57606A&bg_color=00000000" alt="GitHub stats" />
@@ -106,14 +106,14 @@
 
 ---
 
-## 联系
+## Contact
 
-有想法、合作，或只是想聊聊 AI 产品——欢迎写信：
+Ideas, collabs, or just want to talk AI products—drop me a line:
 
 **[y.chen6.23@abdn.ac.uk](mailto:y.chen6.23@abdn.ac.uk)**
 
 ---
 
 <p align="center">
-  <sub>大三在读 · 代码之外偶尔造点没用但好玩的东西</sub>
+  <sub>Junior year · Occasionally building useless-but-fun things outside of class</sub>
 </p>
