@@ -35,10 +35,10 @@
   <h3><a href="https://github.com/WINDGAND/Bailin">Bailin</a></h3>
   <p><em>A shape-shifting spirit on your desktop</em> — fully local, open-source AI character companion</p>
   <p>
-    <a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/github/stars/WINDGAND/Bailin?style=flat-square&logo=github&color=5B8DEF" alt="stars" /></a>
-    <img src="https://img.shields.io/badge/license-MIT-5B8DEF?style=flat-square" alt="MIT" />
-    <img src="https://img.shields.io/badge/platform-Windows-5B8DEF?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Electron-5B8DEF?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+    <a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/github/stars/WINDGAND/Bailin?style=flat-square&logo=github&color=F5C518" alt="stars" /></a>
+    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" />
+    <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
   </p>
 </div>
 
@@ -51,9 +51,9 @@ Create a character in minutes through deep “personality distillation,” pin t
 </p>
 
 <p align="center">
-  <a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/badge/Repository-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+  <a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
   &nbsp;
-  <a href="https://github.com/WINDGAND/Bailin/releases/latest"><img src="https://img.shields.io/badge/Download-E8A87C?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
+  <a href="https://github.com/WINDGAND/Bailin/releases/latest"><img src="https://img.shields.io/badge/Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
 </p>
 
 ---
@@ -61,20 +61,20 @@ Create a character in minutes through deep “personality distillation,” pin t
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-5B8DEF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-5B8DEF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-5B8DEF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Electron-5B8DEF?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/React-5B8DEF?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-5B8DEF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-5B8DEF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-5B8DEF?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-E8A87C?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Codex-E8A87C?style=for-the-badge" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude%20Code-E8A87C?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
@@ -88,14 +88,7 @@ Create a character in minutes through deep “personality distillation,” pin t
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WINDGAND&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=5B8DEF&icon_color=E8A87C&text_color=2D333A&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINDGAND&layout=compact&hide_border=true&title_color=5B8DEF&text_color=2D333A&bg_color=00000000&langs_count=6" alt="Top languages" />
-</div>
-
-<br>
+## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WINDGAND&bg_color=0f1419&color=5b8def&line=5b8def&point=e8a87c&area=true&area_color=5b8def&hide_border=true&custom_title=wiND's%20Contribution%20Graph" alt="Contribution graph" />
@@ -107,9 +100,9 @@ Create a character in minutes through deep “personality distillation,” pin t
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-5B8DEF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.chen6.23@abdn.ac.uk)
-[![GitHub](https://img.shields.io/badge/GITHUB-5B8DEF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WINDGAND)
-[![Bailin](https://img.shields.io/badge/BAILIN-E8A87C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WINDGAND/Bailin)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.chen6.23@abdn.ac.uk)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WINDGAND)
+[![Bailin](https://img.shields.io/badge/BAILIN-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/WINDGAND/Bailin)
 
 <p><sub>Ideas, collabs, or just want to talk AI products—drop me a line.</sub></p>
 
