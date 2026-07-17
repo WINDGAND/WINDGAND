@@ -100,10 +100,11 @@ Create a character in minutes through deep “personality distillation,” pin t
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.chen6.23@abdn.ac.uk)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WINDGAND)
-[![Bailin](https://img.shields.io/badge/BAILIN-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/WINDGAND/Bailin)
+<a href="mailto:y.chen6.23@abdn.ac.uk"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/WINDGAND"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/WINDGAND/Bailin"><img src="https://img.shields.io/badge/BAILIN-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Bailin" /></a>
 
+<p><a href="mailto:y.chen6.23@abdn.ac.uk">y.chen6.23@abdn.ac.uk</a></p>
 <p><sub>Ideas, collabs, or just want to talk AI products—drop me a line.</sub></p>
 
 </div>
